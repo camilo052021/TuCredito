@@ -1,0 +1,4 @@
+Dajngo==4.1
+django-crispy-forms==1.14.0
+pillow==9.2.0
+psycopg==2.9.3
